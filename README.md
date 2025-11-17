@@ -1,4 +1,4 @@
-# Release Collateral for motorBench® Development Suite
+# Release Collateral for motorBench® Development Suite + Custom Board Files
 
 ## Custom Board Files
 
